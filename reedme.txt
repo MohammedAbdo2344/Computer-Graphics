@@ -1,0 +1,17 @@
+	Home model
+
+project 12th by mohammed hassan abdo 
+
+this project is about home model in opengl 
+user can show home in front with(door,two window) , left side ,
+right side and back side with (two window) .
+also user can zoom in and zoom out .
+
+To use program use these key :
+(1) Left-Key to show left side 
+(2) right-key to show right side 
+(3) up-key to show right side 
+(4) down-key to show right side  
+(5) pgup to zoom in 
+(6) pgdn to zoom out 
+ 
